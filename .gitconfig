@@ -3,3 +3,10 @@
 	bdog = log --branches --date-order --oneline --graph
 	dog = log --date-order --oneline --graph
 	root = rev-parse --show-toplevel
+[init]
+	defaultBranch = main
+[pull]
+	ff = only
+[user]
+	email = bhimabi@gmail.com
+	name = Abilash Subbaraman
