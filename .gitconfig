@@ -8,3 +8,5 @@
 [user]
 	email = bhimabi@gmail.com
 	name = Abilash Subbaraman
+[push]
+	autoSetupRemote = True
